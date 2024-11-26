@@ -179,6 +179,16 @@ module.exports = {
 ---
 
 上述講這樣多,我來實際應用就知道:
-
+  購物網站<實作功能>
+    1. Adding google login/out
+    2. prisma 商品管理（結帳還未完成）
+    3. Creating A stripe Customer
+    4. Creating our Nacbar
+    5. Fetching stripe Products
+    6. home page
+    7. adding Products to Cart
+    8. Cart UI
+    9. Adding and Removing Products
+    持續擴充中
 
         
