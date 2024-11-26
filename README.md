@@ -179,8 +179,20 @@ module.exports = {
 ---
 
 上述講這樣多,我來實際應用就知道:購物網站<實作功能>
-  1. Adding google login/out
-  2. prisma 商品管理（結帳還未完成）
+
+```
+npm run dev  //URL:http://localhost:3000/
+
+```
+
+
+資料庫:Postgres
+金流:stripe
+
+
+
+  1. googleAuth login/out
+  2. stripe 商品管理（結帳還未完成）
   3. Creating A stripe Customer
   4. Creating our Nacbar
   5. Fetching stripe Products
